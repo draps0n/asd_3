@@ -24,11 +24,11 @@ Wymagania:
 • Złożoność czasowa wczytania danych do wybranej struktury danych: O(nlogn)
 • Złożoność pamięciowa: O(n).
 • Program musi wczytywać dane wejściowe z pliku, którego lokalizacja podana jest w 
-pierwszym parametrze wywołania programu. 
+  pierwszym parametrze wywołania programu. 
 • Jedyną rzeczą, którą program wypisuje, musi być wiersz zawierający odpowiedź. 
 • Całość rozwiązania musi zawierać się w jednym pliku. 
 • Zakładamy poprawność danych wejściowych.
 • Zabronione jest korzystanie z gotowych rozwiązań z języka Java (bądź innych), takich jak 
-ArrayList czy StringBuilder. Wyjątkami są te rozwiązania, które służą do operacji 
-wejścia/wyjścia (np. Scanner w Javie). Dozwolone jest także użycie klasy String oraz metod 
-w niej zawartych.
+  ArrayList czy StringBuilder. Wyjątkami są te rozwiązania, które służą do operacji 
+  wejścia/wyjścia (np. Scanner w Javie). Dozwolone jest także użycie klasy String oraz metod 
+  w niej zawartych.
